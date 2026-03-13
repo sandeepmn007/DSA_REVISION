@@ -1,4 +1,4 @@
-package java8.preparation.dsa;
+package preparationjava.dsa;
 
 public class Solve {
 
